@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Krishna</string>
+    <string name="all_offers_coupons">All Offers &amp; Coupons</string>
+    <string name="sub_total">Sub Total</string>
+    <string name="discount">Discount</string>
+    <string name="offer">Offer</string>
+    <string name="final_amount">Final Amount</string>
+    <string name="add_more">Add More</string>
+    <string name="terms_and_condition">Terms and Condition</string>
+</resources>
