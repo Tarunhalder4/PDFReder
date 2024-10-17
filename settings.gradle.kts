@@ -21,6 +21,11 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
         mavenLocal()
+
+        maven {
+            url = uri("https://my.pspdfkit.com/maven")
+        }
+
 //        maven {
 //            url = uri("https://company/com/maven2")
 //        }
@@ -35,4 +40,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Krishna"
 include(":app")
- 
+include(":fileScanner")

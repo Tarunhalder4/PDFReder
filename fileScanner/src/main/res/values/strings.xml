@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="data"> is evident from Eq 5.8.34, that envelope A(0) which appears at the output of the envelope
+                 detector has no exclusive term proportional to the baseband (modulating) signal f(t). The term
+                 N is multiplied with a large noise term cos 6(0) and hence, f(t) cannot be separated from the
+                 noise. As the modulating term/ () 1s Completely mingled with noise, it carries no useful information.
+                 The loss of the message f (t) in an envelope detector due to the presence of the large noise is
+                 referred to as the threshold effect.
+                 5:9 COMPARISON OF VARIOUS AM SYSTEMS
+                 (5.8.33)
+                 We have seen that when a noise in large as compared to the signal at the input of the envelope
+                 detector, the detected output has a message signal completely mingled with the noise. It means
+                 that if the input signal-to-noise ratio (S, / N) is below a certain level, called threshold level, the
+                 nOise dominates over the message signal. Threshold is defined as value of the input signal to
+                 nOise ratio (S,/ N) below which the output signal to noise ratio (S, / N,) deteriorates much more
+                 rapidly than the input signal to noise ratio. The threshold effect starts in an envelope detector
+                 Whenever the carrier power to noise power ratio approaches unity or less. It is important to stress
+                 that the threshold effect is the property of an envelope detector; on the other hand, such an effect
+                 Snot observed in a synchronous detector (Prob. 5.13).
+                 (5.8.34)
+                 lar we have studied the various forms of amplitude modulation, accordingly we can divide
+                 no two broad categories, viz. suppressed carrier AM system; and AM systems witha large
+                 r amplitude. The suppressed carrier system can be further subdivided into three parts: (a)
+                 (b) SSB-SC; and © VSB-SC, It is worthwhile to compare the various AM systems
+                 tased on the following points:
+                 For the receiver, an AM is advantageous, because the envelope detector used in such a receiver is
+                 Very Simple and inexpensive. Therefore, the AM system is preferably used in public communication
+                 Sems where a transmitter is associated with a large number of receivers. The receivers cost is
+                 portant in such cases, as, for example, in a radio broadcast system, a receiver is needed almost in
+                 b ow. ANM system with a large carrier are advantageous in this case. The receivers of a suppressed
+                 y house, and can be treated as an essential commodity. Therefore, the cost of the receiver must
+                 system are complex and costly as they need additional synchronizing circuits. Therefore.
+                 Pressed carrier system is undesirable for public communication systems.</string>
+
+</resources>
